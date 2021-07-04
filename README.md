@@ -1,2 +1,2 @@
 # FFT_GPU
-FFT GPU Implementation with CUDA C
+FFT GPU Implementation with CUDA C.
